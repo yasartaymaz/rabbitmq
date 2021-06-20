@@ -11,5 +11,6 @@ namespace RabbitMQSample.Producer.Models
         public string Name { get; set; }
         public Guid Guid { get; set; }
         public decimal Decimal { get; set; }
+        public DateTime Date { get; set; }
     }
 }

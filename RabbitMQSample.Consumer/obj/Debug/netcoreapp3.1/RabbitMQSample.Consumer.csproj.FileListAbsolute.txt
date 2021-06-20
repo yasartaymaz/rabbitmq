@@ -1,0 +1,16 @@
+C:\Users\YasarTaymaz\source\repos\rabbitmq\RabbitMQSample.Consumer\bin\Debug\netcoreapp3.1\RabbitMQSample.Consumer.exe
+C:\Users\YasarTaymaz\source\repos\rabbitmq\RabbitMQSample.Consumer\bin\Debug\netcoreapp3.1\RabbitMQSample.Consumer.deps.json
+C:\Users\YasarTaymaz\source\repos\rabbitmq\RabbitMQSample.Consumer\bin\Debug\netcoreapp3.1\RabbitMQSample.Consumer.runtimeconfig.json
+C:\Users\YasarTaymaz\source\repos\rabbitmq\RabbitMQSample.Consumer\bin\Debug\netcoreapp3.1\RabbitMQSample.Consumer.runtimeconfig.dev.json
+C:\Users\YasarTaymaz\source\repos\rabbitmq\RabbitMQSample.Consumer\bin\Debug\netcoreapp3.1\RabbitMQSample.Consumer.dll
+C:\Users\YasarTaymaz\source\repos\rabbitmq\RabbitMQSample.Consumer\bin\Debug\netcoreapp3.1\RabbitMQSample.Consumer.pdb
+C:\Users\YasarTaymaz\source\repos\rabbitmq\RabbitMQSample.Consumer\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\YasarTaymaz\source\repos\rabbitmq\RabbitMQSample.Consumer\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\YasarTaymaz\source\repos\rabbitmq\RabbitMQSample.Consumer\obj\Debug\netcoreapp3.1\RabbitMQSample.Consumer.csproj.AssemblyReference.cache
+C:\Users\YasarTaymaz\source\repos\rabbitmq\RabbitMQSample.Consumer\obj\Debug\netcoreapp3.1\RabbitMQSample.Consumer.AssemblyInfoInputs.cache
+C:\Users\YasarTaymaz\source\repos\rabbitmq\RabbitMQSample.Consumer\obj\Debug\netcoreapp3.1\RabbitMQSample.Consumer.AssemblyInfo.cs
+C:\Users\YasarTaymaz\source\repos\rabbitmq\RabbitMQSample.Consumer\obj\Debug\netcoreapp3.1\RabbitMQSample.Consumer.csproj.CoreCompileInputs.cache
+C:\Users\YasarTaymaz\source\repos\rabbitmq\RabbitMQSample.Consumer\obj\Debug\netcoreapp3.1\RabbitMQSample.Consumer.csproj.CopyComplete
+C:\Users\YasarTaymaz\source\repos\rabbitmq\RabbitMQSample.Consumer\obj\Debug\netcoreapp3.1\RabbitMQSample.Consumer.dll
+C:\Users\YasarTaymaz\source\repos\rabbitmq\RabbitMQSample.Consumer\obj\Debug\netcoreapp3.1\RabbitMQSample.Consumer.pdb
+C:\Users\YasarTaymaz\source\repos\rabbitmq\RabbitMQSample.Consumer\obj\Debug\netcoreapp3.1\RabbitMQSample.Consumer.genruntimeconfig.cache

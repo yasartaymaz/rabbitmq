@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dtXJ4bksut/2Z010nAhHBliNvQxvRN/k4skxwi+ZHlb3vnulUX6j0e07lsvP4dLSXN1CFi54pVxYy+qo3zizgw==",
+  "dgSpecHash": "0F57HJr672Dxg8E8RvHPIZuE8eY+b+Y+znd6AADHa5ZCOeGBnj0a2meGjaa6cuO/OzRnuh79hkYapeTOhydFjA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\YasarTaymaz\\source\\repos\\RabbitMQSample\\RabbitMQSample.Producer\\RabbitMQSample.Producer.csproj",
+  "projectFilePath": "C:\\Users\\YasarTaymaz\\source\\repos\\rabbitmq\\RabbitMQSample.Producer\\RabbitMQSample.Producer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\YasarTaymaz\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\YasarTaymaz\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",

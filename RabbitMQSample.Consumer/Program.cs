@@ -9,7 +9,6 @@ namespace RabbitMQSample.Consumer
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
             var factory = new ConnectionFactory() { HostName = "localhost" };
             using (var connection = factory.CreateConnection())
             using (var channel = connection.CreateModel())

@@ -38,9 +38,10 @@ namespace RabbitMQSample.Producer.Controllers
                     Id = rnd.Next(1, 999),
                     Name = "deneme texti öçşiğüıÖÇŞİĞÜI",
                     Guid = Guid.NewGuid(),
-                    Decimal = (decimal)1903.666
+                    Decimal = (decimal)1903.666,
+                    Date = DateTime.Now
                 };
-                
+
                 var body = Encoding.UTF8.GetBytes(JsonConvert.SerializeObject(model));
 
                 channel.BasicPublish(exchange: "",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\YasarTaymaz\\source\\repos\\RabbitMQSample\\RabbitMQSample.Consumer\\RabbitMQSample.Consumer.csproj": {}
+    "C:\\Users\\YasarTaymaz\\source\\repos\\rabbitmq\\RabbitMQSample.Consumer\\RabbitMQSample.Consumer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\YasarTaymaz\\source\\repos\\RabbitMQSample\\RabbitMQSample.Consumer\\RabbitMQSample.Consumer.csproj": {
+    "C:\\Users\\YasarTaymaz\\source\\repos\\rabbitmq\\RabbitMQSample.Consumer\\RabbitMQSample.Consumer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\YasarTaymaz\\source\\repos\\RabbitMQSample\\RabbitMQSample.Consumer\\RabbitMQSample.Consumer.csproj",
+        "projectUniqueName": "C:\\Users\\YasarTaymaz\\source\\repos\\rabbitmq\\RabbitMQSample.Consumer\\RabbitMQSample.Consumer.csproj",
         "projectName": "RabbitMQSample.Consumer",
-        "projectPath": "C:\\Users\\YasarTaymaz\\source\\repos\\RabbitMQSample\\RabbitMQSample.Consumer\\RabbitMQSample.Consumer.csproj",
+        "projectPath": "C:\\Users\\YasarTaymaz\\source\\repos\\rabbitmq\\RabbitMQSample.Consumer\\RabbitMQSample.Consumer.csproj",
         "packagesPath": "C:\\Users\\YasarTaymaz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\YasarTaymaz\\source\\repos\\RabbitMQSample\\RabbitMQSample.Consumer\\obj\\",
+        "outputPath": "C:\\Users\\YasarTaymaz\\source\\repos\\rabbitmq\\RabbitMQSample.Consumer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -21,15 +21,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.2"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.2": {
-            "targetAlias": "netcoreapp2.2",
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -40,15 +40,9 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.2": {
-          "targetAlias": "netcoreapp2.2",
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
-            "Microsoft.NETCore.App": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.2.0, )",
-              "autoReferenced": true
-            },
             "RabbitMQ.Client": {
               "target": "Package",
               "version": "[6.2.1, )"
@@ -64,6 +58,11 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }

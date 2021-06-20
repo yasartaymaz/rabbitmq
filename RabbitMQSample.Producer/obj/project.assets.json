@@ -152,11 +152,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\YasarTaymaz\\source\\repos\\RabbitMQSample\\RabbitMQSample.Producer\\RabbitMQSample.Producer.csproj",
+      "projectUniqueName": "C:\\Users\\YasarTaymaz\\source\\repos\\rabbitmq\\RabbitMQSample.Producer\\RabbitMQSample.Producer.csproj",
       "projectName": "RabbitMQSample.Producer",
-      "projectPath": "C:\\Users\\YasarTaymaz\\source\\repos\\RabbitMQSample\\RabbitMQSample.Producer\\RabbitMQSample.Producer.csproj",
+      "projectPath": "C:\\Users\\YasarTaymaz\\source\\repos\\rabbitmq\\RabbitMQSample.Producer\\RabbitMQSample.Producer.csproj",
       "packagesPath": "C:\\Users\\YasarTaymaz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\YasarTaymaz\\source\\repos\\RabbitMQSample\\RabbitMQSample.Producer\\obj\\",
+      "outputPath": "C:\\Users\\YasarTaymaz\\source\\repos\\rabbitmq\\RabbitMQSample.Producer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
