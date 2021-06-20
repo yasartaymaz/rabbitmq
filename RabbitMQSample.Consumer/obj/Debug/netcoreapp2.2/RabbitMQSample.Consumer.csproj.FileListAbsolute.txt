@@ -1,0 +1,12 @@
+C:\Users\YasarTaymaz\source\repos\RabbitMQSample\RabbitMQSample.Consumer\obj\Debug\netcoreapp2.2\RabbitMQSample.Consumer.csproj.AssemblyReference.cache
+C:\Users\YasarTaymaz\source\repos\RabbitMQSample\RabbitMQSample.Consumer\obj\Debug\netcoreapp2.2\RabbitMQSample.Consumer.AssemblyInfoInputs.cache
+C:\Users\YasarTaymaz\source\repos\RabbitMQSample\RabbitMQSample.Consumer\obj\Debug\netcoreapp2.2\RabbitMQSample.Consumer.AssemblyInfo.cs
+C:\Users\YasarTaymaz\source\repos\RabbitMQSample\RabbitMQSample.Consumer\obj\Debug\netcoreapp2.2\RabbitMQSample.Consumer.csproj.CoreCompileInputs.cache
+C:\Users\YasarTaymaz\source\repos\RabbitMQSample\RabbitMQSample.Consumer\bin\Debug\netcoreapp2.2\RabbitMQSample.Consumer.deps.json
+C:\Users\YasarTaymaz\source\repos\RabbitMQSample\RabbitMQSample.Consumer\bin\Debug\netcoreapp2.2\RabbitMQSample.Consumer.runtimeconfig.json
+C:\Users\YasarTaymaz\source\repos\RabbitMQSample\RabbitMQSample.Consumer\bin\Debug\netcoreapp2.2\RabbitMQSample.Consumer.runtimeconfig.dev.json
+C:\Users\YasarTaymaz\source\repos\RabbitMQSample\RabbitMQSample.Consumer\bin\Debug\netcoreapp2.2\RabbitMQSample.Consumer.dll
+C:\Users\YasarTaymaz\source\repos\RabbitMQSample\RabbitMQSample.Consumer\bin\Debug\netcoreapp2.2\RabbitMQSample.Consumer.pdb
+C:\Users\YasarTaymaz\source\repos\RabbitMQSample\RabbitMQSample.Consumer\obj\Debug\netcoreapp2.2\RabbitMQSample.Consumer.dll
+C:\Users\YasarTaymaz\source\repos\RabbitMQSample\RabbitMQSample.Consumer\obj\Debug\netcoreapp2.2\RabbitMQSample.Consumer.pdb
+C:\Users\YasarTaymaz\source\repos\RabbitMQSample\RabbitMQSample.Consumer\obj\Debug\netcoreapp2.2\RabbitMQSample.Consumer.genruntimeconfig.cache
